@@ -10,7 +10,7 @@
       <li>Email: elosiubafavour19@gmail.com</li>
       <li>Facebook: Elosiuba favour Osinachi</li>
       <li>Twitter: Favvyosii</li>
-      <li>LinkedIn: Prince Codes</li>
+      <li>LinkedIn: Elosiuba Favour Osinachi</li>
     </ol>
   </li>
 </ul>
@@ -19,15 +19,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princecodes247&langs_count=8&theme=tokyonight"/></p>
 
 
-![](https://komarev.com/ghpvc/?username=princecodes247&color=green)
-
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=princecodes247&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
 
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{princecodes247}1212%2Fhit-counter" alt="counter" style="vertical-align:top; margin:4px">
+
 
 
 ## 🧰 Languages and Tools:
@@ -68,6 +64,5 @@ style="vertical-align:top; margin: 4px">
 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princecodes247&label=Profile%20views&color=0e75b6&style=flat" alt="princecodes247" /> </p>
 
 
