@@ -38,6 +38,6 @@
 
 
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodeok &theme=radical)
 
 
