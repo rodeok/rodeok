@@ -1,4 +1,4 @@
-h1 align="center">Elosiuba Favour O.</h1>
+<h1 align="center">Elosiuba Favour osinachi</h1>
 <h2 align="center"><b>I’m a Full Stack Web3 Developer</b></h2>
 <ul>
   <li>🔭 I write articles on learning tech.</li>
@@ -28,7 +28,7 @@ h1 align="center">Elosiuba Favour O.</h1>
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rodeok&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
 
-[![Prince github activity graph](https://activity-graph.herokuapp.com/graph?username=rodeok&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![rodeok github activity graph](https://activity-graph.herokuapp.com/graph?username=rodeok&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](./profile-3d-contrib/profile-night-green.svg)
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{rodeok}1212%2Fhit-counter" alt="counter" style="vertical-align:top; margin:4px">
 
