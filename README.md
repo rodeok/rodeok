@@ -72,5 +72,5 @@ style="vertical-align:top; margin: 4px">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodeok&label=Profile%20views&color=0e75b6&style=flat" alt="rodeok" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashutoshkrris)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p>[![trophy](https://github-profile-trophy.vercel.app/?username=ashutoshkrris)](https://github.com/ryo-ma/github-profile-trophy)
+<p/>
