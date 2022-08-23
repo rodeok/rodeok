@@ -7,7 +7,7 @@ Fullstack developer
 I have been learning to code for past 3 years and intermediately good at python, JavaScript, Go lang,Typescript, frameworks: React : Nextjs,Vite Flask
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [Favlink](http://favlink.me)
+* 🖥️  See my portfolio at [Favlink](https://www.elosiubafavour.tech/)
 * ✉️  You can contact me at [elosiubafavour131@gmail.com](mailto:elosiubafavour131@gmail.com)
 * 🚀  I'm currently working on [Online Bootcamp](http://github.com/rodeok/bootcamp-1)
 * 🧠  I'm learning Python Flask
