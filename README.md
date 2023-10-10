@@ -9,7 +9,6 @@ I have been learning to code for past 3 years and intermediately good at python,
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Favlink](https://www.elosiubafavour.tech/)
 * ✉️  You can contact me at [elosiubafavour131@gmail.com](mailto:elosiubafavour131@gmail.com)
-* 🚀  I'm currently working on [](http://github.com/rodeok/bootcamp-1)
 * 🧠  I'm learning Python Flask
 * 🤝  I'm open to collaborating on Python,React
 * ⚡  am secretly getting good at Golang
